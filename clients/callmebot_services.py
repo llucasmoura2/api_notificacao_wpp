@@ -1,6 +1,6 @@
 import requests
 
-class CallMeBot():
+class CallMeBot:
     
     def __init__(self):
         self.__base_url = 'https://api.callmebot.com/whatsapp.php'
